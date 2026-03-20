@@ -16,9 +16,10 @@ One day, I was thinking about making a custom keyboard which would be suitable f
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 3d case | for housing keyboard | 8.50 | 1 | 8.50 | | printing legion |
 | switches | for input to raspberry pi pico | 2.14 | 9 | 19.26 | [Cosmic Byte](https://www.thecosmicbyte.com/product/gateron-mechanical-switches-compatible-with-cosmic-byte-hot-swappable-keyboards-qty-1pc/) | cosmic byte |
-| raspberry pi pico | for controlling everything | 0.00 | 1 | 0.00 | | sel sourced |
+| raspberry pi pico | for controlling everything | 0.00 | 1 | 0.00 | | self sourced |
 | custom pcb | for soldering all components on | 40.65 | 1 | 40.65 | | jlcpcb |
 | stabilizers | for bigger keycaps | 17.05 | 1 | 17.05 | [StacksKB](https://stackskb.com) | stackskb |
 | keycaps | keys for typing | 13.89 | 1 | 13.89 | [StacksKB](https://stackskb.com/store/veekos-gradient-keycaps-cherry-profile-135-keys/) | stackskb |
 | **Grand Total** | | | | **99.35** | | |
-
+# Flashing instructions
+download the keyboard.py from, the firmware folder and import it into circuit python select the com ports and youre ready to flash the code.
